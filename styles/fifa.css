@@ -191,11 +191,12 @@ main {
 
 }
 
-/* .underline{
-  color: rgba(255, 255, 255, 0.1);
-  width: 1320px;
+/* .foot-border{
+  max-width: 48rem;
+  margin: 50px auto;
+  width: 100%;
   height: 1px;
-  margin: 10px auto 0;
+  padding: 5%;
 } */
 
 .footer-links{
